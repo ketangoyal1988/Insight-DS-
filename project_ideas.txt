@@ -1,0 +1,15 @@
+1.) Increase chances of meeting common minded people when going out to clubs and bars. Recomend bars and clubs nearby. 
+
+2.) Recomendation system of books based on content and user ratings.
+
+3.) Convert Music audio to sheet music.
+
+4.) Predict chances of a movie script being sucessful.
+
+5.) Machine translation of light novels. Improve performace of www.lmntl.com 
+
+6.) Network security. Malware detection system.
+
+7.) Emotion detection from facial features.
+
+8.) Restuarent recomendation system. Recomend restaurents based on food taste and location. 
